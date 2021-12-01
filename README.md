@@ -8,7 +8,7 @@
 * 🎓 PhD candidate at university of Gdansk
 * 👨‍💻 Candidate for the German Association of actuaries
 * 🔭 Currently learning **Rshiny**
-* 🎓 Exchange student of Kobe university (2018-2019)
+* 🎓 Exchange student of university of Kobe (2018-2019)
 
 
 <br />
